@@ -40,3 +40,7 @@ bin/
 # 只忽略当前目录下的log和logs文件和目录
 /log
 /logs
+
+
+# web
+**/node_modules
